@@ -1,0 +1,25 @@
+{
+  "name": {
+    "en": "Uncle Pennywise",
+    "ru": "Дядюшка Пеннивайз",
+    "uk": "Дядечко Пеннівайз"
+  },
+  "description": {
+    "en": "Uncle Pennywise says hello to all the naughty kids 😈",
+    "ru": "Дядюшка Пеннивайз передаёт привет всем непослушным деткам 😈",
+    "uk": "Дядечко Пеннівайз передає привіт усім неслухняним діткам 😈"
+  },
+  "type": "overlay",
+  "version": "1.0.0",
+  "author": "RocketMan",
+  "icon": "logo.svg",
+  "overlay": {
+    "audio": "audio.mp3",
+    "video": "video.webm",
+    "defaultVolume": 50,
+    "defaultDuration": 3,
+    "lockDuration": true,
+    "durationMin": 3,
+    "durationMax": 3
+  }
+}
